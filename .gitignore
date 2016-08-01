@@ -1,6 +1,16 @@
 .gradle
 build/
 
+data/
+*.ids
+*.iml
+*.ipr
+*.iws
+out/
+*.log
+log/
+.DS_Store
+
 # Ignore Gradle GUI config
 gradle-app.setting
 
